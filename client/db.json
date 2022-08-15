@@ -1,0 +1,18 @@
+{
+  "cartItems": [
+    {
+      "productId": "1",
+      "productName": "carbiner",
+      "productPrice": "30$",
+      "amount": "2",
+      "productImage": "https://www.svgrepo.com/show/23949/carabiner.svg"
+    },
+    {
+      "productId": "2",
+      "productName": "car jack",
+      "productPrice": "30$",
+      "amount": "3",
+      "productImage": "https://freesvg.org/img/1542011268.png"
+    }
+  ]
+}
