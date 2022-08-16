@@ -51,14 +51,15 @@ const Slide = styled.div`
 `;
 const ImageContainer = styled.div`
    flex: 1;
-   height: 100%;
+   height: 75%;
    width:75%;
    padding:50px 50px;
 `;
 const Image = styled.img`
-width:75%;
-height:75%;
-border-radius:50%;
+width:100%;
+height:100%;
+border-radius: 10%;
+ 
 `;
 const InfoContainer = styled.div`
 flex: 1;
